@@ -4,12 +4,15 @@
 
 In this technical test, I was asked to create a search app using React. The app allows users to enter a search query, retrieves images from the NASA Images API based on the search query, and displays the search results.
 
-Screenshots
-Desktop View
+## Screenshots
+
+#### Desktop View
+
 <img src='./public/images/Desktop.png' alt="dekstop preview" style="width: 50vw;" />
 
-Mobile View
-<img src='./public/images/Mobile.png' alt="mobile preview" style="width: 50vw;" />
+#### Mobile View
+
+<img src='./public/images/Mobile.png' alt="mobile preview" style="width: 30vw;" />
 
 ### Technologies Used
 
